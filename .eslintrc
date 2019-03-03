@@ -1,0 +1,15 @@
+{
+  "extends": ["airbnb", "prettier", "prettier/react"],
+  "plugins": ["babel", "prettier"],
+  "parser": "babel-eslint",
+  "rules": {
+    "prettier/prettier": "error",
+    "react/jsx-filename-extension": "off",
+    "import/prefer-default-export": "off"
+  },
+  "settings": {
+    "react": {
+      "pragma": "h"
+    }
+  }
+}
