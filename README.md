@@ -1,4 +1,4 @@
-# xsedev
+# xsedev ![Build Status](https://travis-ci.org/Zombispormedio/xsedev.svg?branch=master)
 
 > My Professional Card
 
