@@ -3,13 +3,14 @@
   "version": "1.0.0",
   "description": "Full-Stack, Philanthropist, Charismatic and Motivated Engineer",
   "main": "bin/index.js",
+  "preferGlobal": true,
   "bin": {
-    "xsedev": "bin/index.js"
+    "xsedev": "bin/xsedev.js"
   },
   "scripts": {
     "start": "babel-node src",
     "develop": "nodemon --exec npm run start",
-    "build": "babel src --out-dir bin",
+    "build": "babel src --out-dir lib",
     "format": "prettier --write **/*.js",
     "lint": "eslint **/*.js"
   },
