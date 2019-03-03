@@ -1,6 +1,6 @@
 {
   "name": "xsedev",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Full-Stack, Philanthropist, Charismatic and Motivated Engineer",
   "main": "bin/index.js",
   "preferGlobal": true,
