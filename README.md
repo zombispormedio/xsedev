@@ -2,4 +2,14 @@
 
 > My Professional Card
 
-[![js-standard-style](https://cdn.rawgit.com/standard/standard/master/badge.svg)](https://github.com/standard/standard)
+<img src="screenshot.png" width="752">
+
+## Built with
+
+- [ink](https://github.com/vadimdemedes/ink) - React for CLIs. Build and test your CLI output using components.
+- [ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
+- [meow](https://github.com/sindresorhus/meow) - CLI app helper
+
+## License
+
+MIT © [Xavier Serrano](https://zombispormedio.github.io)
